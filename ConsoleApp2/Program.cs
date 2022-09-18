@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace project1
+namespace ConsoleApp2
 {
-    internal class Class1
+    internal class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
             int @long = 53; int 실험숫자 = 23;
             int @if = 34;
